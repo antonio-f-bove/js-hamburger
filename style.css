@@ -25,6 +25,7 @@ header {
     height: 40px;
     margin-top: 15px;
 }
+/* icona hamburger */
 .header-right > a {
     display: none;
 }
